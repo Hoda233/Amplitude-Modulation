@@ -72,8 +72,6 @@ There is more attenuation and distortion in the output signal than the previous 
 ### Contributors <a name = "Contributors"></a>
 <table>
   <tr>
-   
-   
     <td align="center">
     <a href="https://github.com/Hoda233" target="_black">
     <img src="https://avatars.githubusercontent.com/u/77369927?v=4" width="150px;" alt="HodaGamal"/>
