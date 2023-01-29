@@ -79,8 +79,7 @@ There is more attenuation and distortion in the output signal than the previous 
     <sub><b>HodaGamal</b></sub></a>
     </td>
     
-    
-     <td align="center">
+    <td align="center">
     <a href="https://github.com/norhanreda" target="_black">
     <img src="https://avatars.githubusercontent.com/u/88630231?v=4" width="150px;" alt="norhan reda"/>
     <br />
