@@ -1,8 +1,6 @@
 <h1>Amplitude Modulation</h1>
 
-<img src="images/image1.png" alt="image1" width="200" height="200"/>
-<img src="images/image2.png" alt="image2" width="200" height="200"/>
-<img src="images/image3.png" alt="image3" width="200" height="200"/>
+<img src="images/image1.png" alt="image1" width="300" height="300"/><img src="images/image2.png" alt="image2" width="300" height="300"/><img src="images/image3.png" alt="image3" width="300" height="300"/>
 
 <h2>Modulation</h2>
 Perform modulation by multiplying the signals using these carriers:
