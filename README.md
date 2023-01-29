@@ -66,3 +66,5 @@ Different by 10Hz:
 There is more attenuation and distortion in the output signal than the previous case.
 
 <img src="images/image11.png" alt="image11" width="250" height="250"/><img src="images/image12.png" alt="image12" width="250" height="250"/>
+
+<b>For more figures and explanation, check the attached pdf.</b>
