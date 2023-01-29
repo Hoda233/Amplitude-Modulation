@@ -69,3 +69,23 @@ There is more attenuation and distortion in the output signal than the previous 
 <img src="images/image11.png" alt="image11" width="250" height="250"/><img src="images/image12.png" alt="image12" width="250" height="250"/>
 
 <b>For more figures and explanation, check the attached pdf.</b>
+### Contributors <a name = "Contributors"></a>
+<table>
+  <tr>
+   
+   
+    <td align="center">
+    <a href="https://github.com/Hoda233" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/77369927?v=4" width="150px;" alt="HodaGamal"/>
+    <br />
+    <sub><b>HodaGamal</b></sub></a>
+    </td>
+     <td align="center">
+    <a href="https://github.com/norhanreda" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/88630231?v=4" width="150px;" alt="norhan reda"/>
+    <br />
+    <sub><b>norhan reda</b></sub></a>
+    </td>
+  </tr>
+ </table>
+
