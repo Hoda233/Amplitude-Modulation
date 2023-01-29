@@ -1,4 +1,5 @@
 <h1>Amplitude Modulation</h1>
+<h2>Original Signals</h2>
 
 <img src="images/image1.png" alt="image1" width="250" height="250"/><img src="images/image2.png" alt="image2" width="250" height="250"/><img src="images/image3.png" alt="image3" width="250" height="250"/>
 
